@@ -1,0 +1,74 @@
+id: I9AFFB560
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:08:03.760625'
+last_modified: '2022-06-15T20:08:03.760638'
+parser: null
+source_metadata:
+  title: Padmasambhava
+  language: en
+  description: 'Texts by and about Guru Padmasambhava or Padmākara (padma ''byung
+    gnas), the "Lotus-Born", who is credited with establishing Buddhism in Tibet:'
+  volume:
+    f05AA:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      base_file: f05AA.txt
+      order: 1
+      parent: Biography
+    fD953:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      base_file: fD953.txt
+      order: 2
+      parent: Biography
+    f6565:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      base_file: f6565.txt
+      order: 3
+      parent: Biography
+    f0644:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      base_file: f0644.txt
+      order: 4
+      parent: Biography
+    f44BF:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      base_file: f44BF.txt
+      order: 5
+      parent: Biography
+    f5FB0:
+      title: A Praise to the Lotus King
+      base_file: f5FB0.txt
+      order: 6
+      parent: Praise
+    f8B81:
+      title: In Praise of Padmākara, the Great Guru of Uḍḍiyāna
+      base_file: f8B81.txt
+      order: 7
+      parent: Praise
+    f33E4:
+      title: 'The Three Kāyas: Praises to the Great Master Padmasambhava'
+      base_file: f33E4.txt
+      order: 8
+      parent: Praise
+    fA39A:
+      title: Prayer to the Indian Mahāpaṇḍita Padmasambhava
+      base_file: fA39A.txt
+      order: 9
+      parent: Prayers
+    fFA6A:
+      title: 'Divine Blue Water: A Contamination Purifying Smoke Offering by the Great
+        Master Padmasambhava'
+      base_file: fFA6A.txt
+      order: 10
+      parent: Sang Offering
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
